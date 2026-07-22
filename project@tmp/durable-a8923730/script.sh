@@ -2,5 +2,5 @@
                             git add -A
                             git config user.name "Andrey Rozhkov"
                             git config user.email "andrew93pav@gmail.com"
-                            git commit -m "Jenkins: Автоматическое удаление файлов [18]" || echo "Нет изменений для коммита"
+                            git commit -m "Jenkins: Автоматическое удаление файлов [19]" || echo "Нет изменений для коммита"
                         
